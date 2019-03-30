@@ -1,0 +1,6 @@
+name: ShutdownInfoTimer
+main: de.chaoswg.ShutdownInfoTimer
+version: 0.0.7
+author: noci
+description: "Shutdown Info Timer"
+license: BDS
